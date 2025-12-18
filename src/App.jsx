@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import emailjs from '@emailjs/browser';
+// import emailjs from '@emailjs/browser';
 import { 
   Code, Rocket, Pencil, Mail, Github, Linkedin, ExternalLink, 
   Calendar, ArrowRight, X, Clock, Menu, ChevronDown, 
